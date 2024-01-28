@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in UTM.<br>🌱 I’m currently learning in c++<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying in UTM.<br>🌱 I’m currently learning in c++<br>
 
 
 ## 🌐 Socials:
