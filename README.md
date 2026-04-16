@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="your-animation-filename.gif" alt="Profile Banner" width="100%" />
+  <a href="https://youtu.be/nJd_rT3MsPc" alt="Profile Banner" width="100%" />
 </div> 
 
 # Hi ~ I am Tan Min Xuan (Xyan) 🦦
