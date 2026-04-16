@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 * 🔭 I’m currently pursuing my Bachelor of Computer Science (Software Engineering) at Universiti Teknologi Malaysia.
 * 🌱 I’m currently focused on **Flutter (Dart)** and **Django (Python)** for building cross-platform applications!
 * 🤝 I recently wrapped up a rewarding term as the President of the UTM Mandarin Club, where I loved bringing people together through major cultural events.
-* 📫 How to reach me: [LinkedIn](www.linkedin.com/in/min-xuan-tan-aa432120a) | tmxuan1121@gmail.com
+* 📫 How to reach me: tmxuan1121@gmail.com
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
   <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="www.linkedin.com/in/min-xuan-tan-aa432120a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
