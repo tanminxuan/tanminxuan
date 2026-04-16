@@ -26,10 +26,9 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 * **[EventMate](https://github.com/Michael9an/Commit-Crew):** A centralized mobile application utilizing Flutter and Firebase to help university students seamlessly track, manage, and register for club events.
 * **[Plantlink-feed System](https://github.com/tanminxuan/plantfeed ):** Upgrading an existing project passed down by seniors, engineering scalable new features and comprehensive ticketing modules into the legacy architecture.
 * **[SoulSpace](https://github.com/chngsenghong/SoulSpace):** A mental wellness tracking application featuring mood logging, resource mapping, custom animations, and real-time synchronization.
-
 ---
 
-### 📊 GitHub Stats:
+### 📊 COonnect Me:
 
 <p align="left">
   <a href="https://www.instagram.com/im_min_xuannn?igsh=a2RjaGoxb3NyenI=" target="_blank">
@@ -41,6 +40,11 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
   </a>
 </p>
 
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,php,js,html,css,flutter,django,react,firebase,github,figma,androidstudio" alt="Tech Stack" />
+</p>
 ---
 
 ### ✍️ Random Dev Quote & Meme:
