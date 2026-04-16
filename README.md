@@ -1,6 +1,6 @@
 # Hi ~ I am Tan Min Xuan (Xyan) 🦦
 
-**Software Engineering Student @ UTM | Full-Stack Developer | Community Leader**
+**Computer Science (Software Engineering) Student @ UTM | Full-Stack Developer | Community Leader**
 
 Welcome to my GitHub! I'm a passionate developer who loves bridging the gap between robust backend architectures and playful, user-friendly interfaces (sometimes even drawing UI inspiration from my favorite Nintendo games!). 
 
