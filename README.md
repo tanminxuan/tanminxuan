@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="your-animation-filename.gif" alt="Profile Banner" width="100%" />
+</div> 
+
 # Hi ~ I am Tan Min Xuan (Xyan) 🦦
 
 **Computer Science (Software Engineering) Student @ UTM | Full-Stack Developer | Community Leader**
