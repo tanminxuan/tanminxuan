@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 * 🌱 I’m heavily focused on **Flutter (Dart)** and **Django (Python)** for building cross-platform applications, and I'm also picking up French on the side!
 * 🚀 Currently working on building out a comprehensive **Bug Type System** from an existing legacy project, and developing **EventMate**, a centralized student club management app.
 * 🤝 I recently wrapped up a rewarding term as the President of the UTM Mandarin Club, where I loved bringing people together through major cultural events.
-* 📫 How to reach me: [LinkedIn](Insert_Link_Here) | tmxuan1121@gmail.com
+* 📫 How to reach me: [LinkedIn](www.linkedin.com/in/min-xuan-tan-aa432120a) | tmxuan1121@gmail.com
 
 ---
 
