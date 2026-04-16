@@ -31,7 +31,14 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 
 ### 📊 GitHub Stats:
 
-*(Drop your GitHub README stats widgets here!)*
+<p align="left">
+  <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
