@@ -32,9 +32,10 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
+  <a href="https://www.instagram.com/im_min_xuannn?igsh=a2RjaGoxb3NyenI=" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  <br>
   <a href="www.linkedin.com/in/min-xuan-tan-aa432120a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
