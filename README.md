@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 * **[SoulSpace](https://github.com/chngsenghong/SoulSpace):** A mental wellness tracking application featuring mood logging, resource mapping, custom animations, and real-time synchronization.
 ---
 
-### 📊 Connect Me:
+### 👥 Connect Me:
 
 <p align="left">
   <a href="https://www.instagram.com/im_min_xuannn?igsh=a2RjaGoxb3NyenI=" target="_blank">
