@@ -1,4 +1,4 @@
-# Hi ~ I am Tan Min Xuan (Wolfie) 🦦
+# Hi ~ I am Tan Min Xuan (Xyan) 🦦
 
 **Software Engineering Student @ UTM | Full-Stack Developer | Community Leader**
 
