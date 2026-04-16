@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://youtu.be/nJd_rT3MsPc" alt="Profile Banner" width="100%" />
-</div> 
+  <img src="study.gif" alt="Profile Banner" width="100%" />
+</div>
 
 # Hi ~ I am Tan Min Xuan (Xyan) 🦦
 
