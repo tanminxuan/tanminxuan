@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate developer who loves bridging the gap betw
 ### 📁 Featured Projects:
 
 * **[EventMate](https://github.com/Michael9an/Commit-Crew):** A centralized mobile application utilizing Flutter and Firebase to help university students seamlessly track, manage, and register for club events.
-* **[Bug Type System](https://github.com/tanminxuan/plantfeed ):** Upgrading an existing project passed down by seniors, engineering scalable new features and comprehensive ticketing modules into the legacy architecture.
+* **[Plantlink-feed System](https://github.com/tanminxuan/plantfeed ):** Upgrading an existing project passed down by seniors, engineering scalable new features and comprehensive ticketing modules into the legacy architecture.
 * **[SoulSpace](https://github.com/chngsenghong/SoulSpace):** A mental wellness tracking application featuring mood logging, resource mapping, custom animations, and real-time synchronization.
 
 ---
